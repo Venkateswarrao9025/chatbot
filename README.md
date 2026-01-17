@@ -1,2 +1,2 @@
 # chatbot
- I am bulding a chatbot that is useful for everyone
+ I had built a chat bot and it is used to get the information that i needed
