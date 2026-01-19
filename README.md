@@ -1,2 +1,2 @@
 # chatbot
- I had built a chat bot and it is used to get the information that i needed
+ I had built a chat bot and it is used to get the information that i needed and i had implemented it by using React for frontend and SpringBoot for the backend
